@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, we're WarfareWare. A upcoming software & game development studio. 👋
 
 <!--
 
